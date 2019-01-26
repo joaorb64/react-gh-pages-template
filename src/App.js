@@ -19,6 +19,15 @@ class App extends Component {
           >
             Learn React
           </a>
+          <a
+            className="App-link"
+            href="https://facebook.github.io/create-react-app/docs/deployment#github-pages-https-pagesgithubcom"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Deploy React with Github Pages
+          </a>
+          <p> Remember to change the 'homepage' value in your package.json! </p>
         </header>
       </div>
     );
