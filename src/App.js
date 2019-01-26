@@ -27,7 +27,7 @@ class App extends Component {
           >
             Deploy React with Github Pages
           </a>
-          <p> Remember to change the 'homepage' value in your package.json! </p>
+          <p> Remember to change the 'homepage' value in your <code>package.json</code>! </p>
           <p> You can clone my source code&nbsp;
           <a
             className="App-link"
