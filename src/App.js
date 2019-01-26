@@ -28,6 +28,17 @@ class App extends Component {
             Deploy React with Github Pages
           </a>
           <p> Remember to change the 'homepage' value in your package.json! </p>
+          <p> You can clone my source code&nbsp;
+          <a
+            className="App-link"
+            href="https://github.com/wynand/react-gh-pages-template"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            here
+          </a>
+          .
+          </p>
         </header>
       </div>
     );
